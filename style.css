@@ -1,0 +1,262 @@
+body {
+  background-color: #333;
+}
+
+#watch {
+  width: 400px;
+  height: 400px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(LightSlateGray), color-stop(#333c44), to(LightSlateGray));
+  background-image: linear-gradient(LightSlateGray, #333c44, LightSlateGray);
+  border-radius: 400px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing {
+  width: 360px;
+  height: 360px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(90deg, #495561, #07090a, #495561);
+  border-radius: 360px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(1) {
+  width: 348px;
+  height: 348px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(90deg, #495561, #07090a, #495561);
+  border-radius: 348px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(2) {
+  width: 344px;
+  height: 344px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(#495561, #07090a, #495561);
+  border-radius: 344px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(3) {
+  width: 340px;
+  height: 340px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(90deg, #495561, #07090a, #495561);
+  border-radius: 340px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(4) {
+  width: 336px;
+  height: 336px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(#495561, #07090a, #495561);
+  border-radius: 336px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(5) {
+  width: 332px;
+  height: 332px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(90deg, #495561, #07090a, #495561);
+  border-radius: 332px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(6) {
+  width: 328px;
+  height: 328px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(#495561, #07090a, #495561);
+  border-radius: 328px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(7) {
+  width: 324px;
+  height: 324px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(90deg, #495561, #07090a, #495561);
+  border-radius: 324px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(8) {
+  width: 320px;
+  height: 320px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(#495561, #07090a, #495561);
+  border-radius: 320px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(9) {
+  width: 316px;
+  height: 316px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(90deg, #495561, #07090a, #495561);
+  border-radius: 316px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .ring:nth-child(10) {
+  width: 312px;
+  height: 312px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#495561), color-stop(#07090a), to(#495561));
+  background-image: linear-gradient(#495561, #07090a, #495561);
+  border-radius: 312px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .screen {
+  width: 300px;
+  height: 300px;
+  background-image: radial-gradient(black, #333c44);
+  border-radius: 300px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#watch .casing .another h1 {
+  color: #999999;
+  position: absolute;
+  bottom: 1em;
+  left: 3em;
+  font-style: italic;
+}
+
+#watch .casing .another .hours {
+  width: 4.75em;
+  height: 0.2em;
+  background-color: whitesmoke;
+  bottom: 8.75em;
+  position: absolute;
+  -webkit-transform-origin: right;
+          transform-origin: right;
+  left: -0.75em;
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+  border-radius: 20%;
+  -webkit-filter: brightness(30%);
+          filter: brightness(30%);
+  -webkit-box-shadow: 0 0 0.1em 0.1em #999;
+          box-shadow: 0 0 0.1em 0.1em #999;
+}
+
+#watch .casing .another .point {
+  width: 0.8em;
+  height: 0.8em;
+  background-color: #999;
+  bottom: 8.68em;
+  position: absolute;
+  -webkit-transform-origin: left;
+          transform-origin: left;
+  left: 9.2em;
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+  border-radius: 100%;
+  -webkit-filter: drop-shadow(em);
+          filter: drop-shadow(em);
+  -webkit-box-shadow: 0 0 0.1em 0.1em #222;
+          box-shadow: 0 0 0.1em 0.1em #222;
+}
+
+#watch .casing .another .minutes {
+  width: 6.75em;
+  height: 0.2em;
+  background-color: whitesmoke;
+  position: absolute;
+  -webkit-transform-origin: right;
+          transform-origin: right;
+  left: 2.2em;
+  top: 9.75em;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  border-radius: 20%;
+  -webkit-filter: brightness(30%);
+          filter: brightness(30%);
+  -webkit-box-shadow: 0 0 0.1em 0.1em #999;
+          box-shadow: 0 0 0.1em 0.1em #999;
+}
+
+#watch .casing .another .ln {
+  width: 0.1em;
+  height: 0.5em;
+  background-color: white;
+  margin: 1px;
+  position: absolute;
+  left: calc(17.5em/2);
+  -webkit-transform-origin: 50% calc(17.5em / 2 - 0.1em / 2);
+          transform-origin: 50% calc(17.5em / 2 - 0.1em / 2);
+  -webkit-filter: brightness(80%);
+          filter: brightness(80%);
+  -webkit-box-shadow: 0 0 0.1em 0.1em #999;
+          box-shadow: 0 0 0.1em 0.1em #999;
+}
+/*# sourceMappingURL=style.css.map */
